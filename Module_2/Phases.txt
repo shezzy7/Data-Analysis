@@ -1,0 +1,7 @@
+There are six phases of data analyses catagorized by google.These are the following:-
+    i-Ask -> Define problem and confirm stakeholder expectations
+    ii-Prepare -> 
+    iii-Process -> Transform and clean data to ensure integrity
+    iv-Analyze -> Use data analysis tools to draw conclusions
+    v-Share -> Interpret and communicate results to others to make data-driven decisions
+    vi-Act -> Put your insights to work in order to solve the original problem

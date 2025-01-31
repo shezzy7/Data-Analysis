@@ -1,0 +1,4 @@
+Data has a life cycle of its own too.The life cycle of data is plan, capture, manage, analyze, archive and destroy.:- 
+    i-Planning :- This actually happens well before starting an analysis project. During planning, a business decides what kind of data it needs, how it will be managed throughout its life cycle, who will be responsible for it, and the optimal outcomes.
+    ii-Capture :- This is where data is collected from a variety of different sources and brought into the organization. With so much data being created everyday, the ways to collect it are truly endless. One common method is getting data from outside resources.
+    iii-
